@@ -1,0 +1,46 @@
+required:
+  emailAddress: البريد الإلكتروني مطلوب
+  password: كلمة السر مطلوبة
+  recaptcha: الرجاء التحقق من الريكابتشا
+  phoneNumber: رقم الهاتف مطلوب
+  otp: الرجاء إدخال رمز التحقق المكون من 6 أرقام
+  confirmPassword: الرجاء تأكيد كلمة السر
+  name: الاسم مطلوب
+  field: هذا الحقل مطلوب
+
+invalid:
+  emailAddress: البريد الإلكتروني غير صحيح
+  phoneNumber: رقم الهاتف غير صحيح
+  auctionNameMustBeInArabic: اسم المزاد يجب أن يكون باللغة العربية
+  auctionNameMustBeInEnglish: اسم المزاد يجب أن يكون باللغة الإنجليزية
+  iban: رقم الآيبان غير صحيح
+  mustBeInArabic: يجب أن يكون باللغة العربية
+  mustBeInEnglish: يجب أن يكون باللغة الإنجليزية
+  url: الرجاء إدخال رابط صحيح
+
+min:
+  password: كلمة السر يجب أن تكون 8 أحرف على الأقل
+  name: الاسم يجب أن يحتوي على 3 أحرف على الأقل
+  string: يجب أن يحتوي على 3 أحرف على الأقل
+  deposit_price: السعر يجب أن يكون 1 ريال على الأقل
+
+max:
+  password: كلمة السر يجب أن تكون 12 حرفًا كحد أقصى
+  name: الاسم يجب أن يحتوي على 50 حرفًا كحد أقصى
+
+match:
+  password: كلمة السر غير متطابقة
+  capitalLetter: يجب أن تحتوي على حرف كبير
+  lowercaseLetter: يجب أن تحتوي على حرف صغير
+  number: يجب أن تحتوي على رقم
+  specialCharacter: يجب أن تحتوي على حرف خاص
+
+unique:
+  titleDeedNumber: رقم الصك موجود مسبقًا
+
+length:
+  titleDeedNumber: رقم الصك يجب أن يكون 12 رقمًا
+
+date:
+  is-after-start: يجب أن يكون بعد تاريخ البداية
+  is-before-end: يجب أن يكون قبل تاريخ النهاية

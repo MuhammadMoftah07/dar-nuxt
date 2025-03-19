@@ -1,0 +1,46 @@
+required:
+  emailAddress: Email Address is required
+  password: Password is required
+  recaptcha: Please verify the reCAPTCHA
+  phoneNumber: Phone Number is required
+  otp: Please enter the 6-digit verification code
+  confirmPassword: Please confirm the password
+  name: Name is required
+  field: This field is required
+
+invalid:
+  emailAddress: Invalid Email Address
+  phoneNumber: Invalid Phone Number
+  auctionNameMustBeInArabic: Auction name must be in Arabic
+  auctionNameMustBeInEnglish: Auction name must be in English
+  iban: Invalid IBAN
+  mustBeInArabic: Must be in Arabic
+  mustBeInEnglish: Must be in English
+  url: Please enter a valid URL
+
+min:
+  password: Password must be at least 8 characters
+  name: Name must contain at least 3 characters
+  string: Must contain at least 3 characters
+  deposit_price: Price must be at least 1 SAR
+
+max:
+  password: Password must be at most 12 characters
+  name: Name must contain at most 50 characters
+
+match:
+  password: Password does not match
+  capitalLetter: Must contain an uppercase letter
+  lowercaseLetter: Must contain a lowercase letter
+  number: Must contain a number
+  specialCharacter: Must contain a special character
+
+unique:
+  titleDeedNumber: Title Deed Number already exists
+
+length:
+  titleDeedNumber: Title Deed Number must be 12 digits
+
+date:
+  is-after-start: Must be after the start date
+  is-before-end: Must be before the end date

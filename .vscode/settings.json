@@ -1,0 +1,8 @@
+{
+  "i18n-ally.localesPaths": ["i18n"],
+  "i18n-ally.keystyle": "nested",
+  "typescript.suggest.autoImports": false,
+  "javascript.suggest.autoImports": false,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "javascript.updateImportsOnFileMove.enabled": "never"
+}

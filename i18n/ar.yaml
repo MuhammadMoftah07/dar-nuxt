@@ -1,0 +1,975 @@
+darFinanceBankTransfers: تحويلات بنكية
+totalBankTransferDarSystem: إجمالي نظام دار
+totalBankTransferRefunded: إجمالي المسترجع
+totalSadadDarSystem: إجمالي سداد
+totalSadadRefunded: إجمالي سداد المسترجع
+totalSadadNotRefunded: إجمالي سداد الغير مسترجع
+darFinanceTotal: إجمالي سداد والتحويلات البنكية المدفوع
+totalRevenueSadadAndBankTransfer: إجمالي (سداد والتحويل البنكي)
+totalRefundedSadadAndBankTransfer: إجمالي المسترجعات (سداد والتحويل البنكي)
+totalNotRefundedSadadAndBankTransfer: إجمالي غير المسترجع (سداد والتحويل البنكي)
+totalBankTransferNotRefunded: إجمالي  غير المسترجع
+darFinanceSadad: إجمالي سداد المدفوع
+upcomingReports: تقارير المزادات القادمة
+currentReports: تقارير المزادات الجارية
+pastReports: تقارير المزادات المنتهية
+biddingReports: تقارير المزايدات
+alertReports: تقارير الإشعارات
+questionReports: تقارير أسئلة العملاء
+propertyNumber: رقم العقار
+propertyImage: صورة العقار
+propertyType: نوع العقار
+propertySize: مساحة العقار
+startPrice: السعر الافتتاحي
+depositPrice: العربون
+incrementPrice: الحد الأدنى للمزايدة
+reservePrice: أقل سعر للبيع
+reservePriceStatus: حالة أقل سعر للبيع
+approvalStatus: حالة الموافقة
+publishStatus: حالة النشر
+reviewedBy: تمت المراجعة بواسطة
+publishedBy: تم النشر بواسطة
+currentPrice: السعر الحالي
+numberOfBids: عدد المزايدات
+highestBidderName: اسم أعلى مزايد
+suspendedStatus: حالة التعليق
+agentDecision: قرار اللجنة
+agentNotes: ملاحظات اللجنة
+soldQm: مباع؟
+paymentStatus: حالة الدفع
+extendedStatus: حالة التمديد
+totalWinners: إجمالي الفائزين
+Bidding: المزايدات
+bidderFullName: الاسم الكامل للمزايد
+bidderId: معرف المزايد
+bidPrice: قيمة المزايدة
+autoBidQm: مزايدة تلقائية؟
+maxPrice: السعر الأقصى
+minPrice: السعر الأدنى
+comment: ملاحظة
+createdAt: تم الإضافة في
+reset: إعادة تعيين
+apply: حفظ
+dateRange: المدة
+suspendAuctionQm: هل انت متأكد من إيقاف هذا المزاد؟
+agents: الوكلاء
+numberOfProperties: عدد الأصول
+numberOfSoldProperties: عدد الأصول المباعة
+totalSoldValue: قيمة الأصول المباعة
+numberOfUnsoldProperties: عدد الأصول غير المباعة
+totalUnsoldValue: قيمة الأصول غير المباعة
+event: المزاد
+infathQm: إنفاذ؟
+done: تم
+propertiesReports: تقارير الأصول
+agentsReports: تقارير الوكلاء
+eventNumber: رقم المزاد
+eventStatus: حالة المزاد
+eventName: اسم المزاد
+numberOfAssets: عدد الأصول
+startDateTime: تاريخ البدء
+endDateTime: تاريخ الانتهاء
+ibanQm: رقم الحساب البنكي؟
+chairman: الرئيس
+secretary: الأمين
+preview: مراجعة
+AccreditationRequest: طلب اعتماد
+approve: موافقة
+historyOfActions: تاريخ الإجراءات
+suspend: إيقاف
+userDetails: تفاصيل المستخدم
+depositRefundTransactions: العرابين المسترجعة
+auctionBiddingReport: تقرير المزايدات
+communication: التواصل
+editCustomerDetails: تعديل تفاصيل المستخدم
+physicalAddress: العنوان
+emailAddress: البريد الإلكتروني
+loginBy: تسجيل الدخول بواسطة
+verificationDateTime: تاريخ التحقق
+documentVerificationDateTime: تاريخ التحقق من المستند
+UserAuctionPreferences: المزادات المفضلة للمستخدم
+PowerofAttorneys: التوكيلات
+PropertyType: نوع الأصل
+Region: المنطقة
+Comments: ملاحظات
+Active: نشط
+Disabled: غير نشط
+Waiting For Approval: قيد الموافقة
+FavoriteAgents: الوكلاء المفضلين
+payments: المدفوعات
+paidAssets: الأصول المدفوعة
+unpaidAssets: الأصول غير المدفوعة
+PaidCommission: العمولة المدفوعة
+UnpaidCommission: العمولة غير المدفوعة
+PendingPaymentCommissiontoAgent: العمولة قيد الدفع للوكيل
+UndeliveredItems: الأصول غير المستلمة
+OverdueItems: المدفوعات المتأخرة
+CollectedCommissiontoDAR: العمولة المحصلة لدار
+UserBankAccountDetails: تفاصيل حساب المستخدم البنكي
+AddBankAccount: إضافة حساب بنكي
+SABAccount: حساب بنكي
+share: مشاركة
+edit: تعديل
+title: العنوان
+details: التفاصيل
+action: الإجراء
+Deposits / Refunds: العرابين / الاسترجاعات
+Payment History: سجل المدفوعات
+paymentType: طريقة الدفع
+referenceNumber: الرقم المرجعي
+status: الحالة
+lotNumber: رقم الأصل
+amount: المبلغ
+totalBids: إجمالي المزايدات
+winningBidsAmount: قيمة المزايدات الفائزة
+deliveryStatus: حالة التسليم
+winingDateTime: تاريخ الفوز
+upcoming: قادم
+current: جاري
+ended: منتهي
+totalAssets: إجمالي الأصول
+depositValue: قيمة العربون
+bidsValue: قيمة المزايدات
+totalWins: إجمالي الفائزين
+totalSpent: إجمالي المصروفات
+autoBidOn: المزايدة التلقائية على
+totalParticipated: إجمالي المشاركين
+totalInterested: إجمالي المهتمين
+biddingHistory: سجل المزايدات
+auction: المزاد
+agent: الوكيل
+bidDateTime: تاريخ المزايدة
+yes: نعم
+no: لا
+bankDetails: تفاصيل البنك
+withInfath?: إنفاذ؟
+winnerPaymentStatus: حالة الدفع للفائز
+winnerBidAmount: مبلغ المزايدة للفائزة
+totalAmount: المبلغ الإجمالي
+darCommission: عمولة دار
+vatAmount: مبلغ ضريبة القيمة المضافة
+winnerQm: فائز؟
+bidAmount: قيمة المزايدة
+autoBid?: المزايدة التلقائية؟
+totalParticipations: إجمالي المشاركات
+autoBidIsOn: المزايدة التلقائية مفعلة؟
+payment: الدفع
+refrenceNumber: رقم المرجع
+dueAmount: المبلغ المستحق
+vat: قيمة ضريبة القيمة المضافة
+fees: الرسوم
+dueDateTime: تاريخ الاستحقاق
+invoice: الفاتورة
+role: المهام
+staff: الموظفين
+addStaff: إضافة موظف
+by: بواسطة
+dateTime: تاريخ ووقت
+totalEvents: إجمالي المزادات
+propertiesWithBids: الأصول لها مزايدات
+propertiesWithNoBids: الأصول بدون مزايدات
+totalBidders: إجمالي المزايدين
+totalParticipants: إجمالي المشاركين
+valueWithNoBids: قيمة الأصول بدون مزايدات
+language: اللغة
+email: البريد الإلكتروني
+password: كلمة المرور
+oldPassword: كلمة المرور القديمة
+inputPassword: أدخل كلمة المرور
+forgotPassword: نسيت كلمة المرور؟
+login: تسجيل الدخول
+languageSwitcher: تغيير اللغة
+enterOTP: أدخل رمز التحقق (OTP)
+error: خطأ
+wrongEmailOrPassword: البريد الإلكتروني أو كلمة المرور غير صحيحة
+wrongOTP: رمز التحقق (OTP) غير صحيح أو منتهي الصلاحية
+weSentOTP: لقد أرسلنا رمز التحقق (OTP) إلى بريدك الإلكتروني
+dashboard: لوحة التحكم
+advertisingManagement: إدارة النشر
+all: الكل
+properties: العقارات
+assets: الأصول
+cars: السيارات
+approved: تمت الموافقة
+pending: قيد الانتظار
+rejected: تم الرفض
+reAuctioned: إعادة المزاد
+sold: تم البيع
+soldValue: قيمة البيع
+unsold: غير مباع
+unsoldValue: قيمة الغير مباع
+customerName: اسم المستخدم
+mobileNumber: رقم الجوال
+type: النوع
+price: السعر
+commission: العمولة
+listedDate: تاريخ الإضافة
+result: النتيجة
+actions: الإجراءات
+createEvent: إضافة مزاد
+confirm: تأكيد
+reject: رفض
+view: معاينة
+cancel: إلغاء
+typeResonToReject: سبب الرفض
+areYouSureYouWantToRejectTheAdvertisement: هل أنت متأكد أنك تريد رفض المزاد؟
+areYouSureYouWantToApproveTheAdvertisement: هل أنت متأكد أنك تريد الموافقة على نشر المزاد؟
+approveAdvertisement: الموافقة على المزاد
+rejectAdvertisement: رفض المزاد
+resetPassword: إعادة تعيين كلمة المرور
+finance: المالية
+operations: العمليات
+liveReports: تقارير المزادات الجارية
+manageAgents: إدارة الوكلاء
+manageCustomers: إدارة المستخدمين
+manageAuctions: إدارة المزادات
+manageAssets: إدارة الأصول
+advertise: النشر
+tickets: التذاكر
+endedAssetsReports: تقرير الأصول المنتهية
+eventReports: تقرير المزاد
+manageStaff: إدارة الموظفين
+profile: الملف الشخصي
+hijri: الهجري
+darAuction: دار المزادات
+totalMetrics: إجمالي المقاييس
+events: المزادات
+past: منتهي
+unpublished: غير منشور
+suspended: تم إيقافه
+bidsHistory: سجل المزايدات
+customersStatistics: إحصائيات المستخدمين
+active: نشط
+requestedDeposit: العرابين المطلوبة
+deposit: العربون
+unactive: غير نشط
+blocked: محظور
+bidder: مزايد
+winner: الفائز
+customersTickets: تذاكر المستخدمين
+completed: تم الإنتهاء
+highPriority: أولوية عالية
+mediumPriority: أولوية متوسطة
+lowPriority: أولوية منخفضة
+manageEvents: إدارة المزادات
+pendingOTP: لقد أرسلنا لك رمز التحقق إلى رقم جوالك المنتهي بـ ***16
+addAgent: إضافة وكيل
+editAgent: تعديل وكيل
+search: بحث...
+export: تصدير
+agentDetails: تفاصيل الوكيل
+financeTransactions: المعاملات المالية
+eventReport: تقرير المزاد
+sendNotification: إرسال إشعار
+sendEmail: إرسال بريد إلكتروني
+sendSMS: إرسال رسالة نصية
+changePasswordRequest: تغيير كلمة المرور
+editAgentDetails: تعديل تفاصيل الوكيل
+editRegisteredStatus: تعديل حالة التسجيل
+agentID: رقم الوكيل
+agentName: اسم الوكيل
+dob: تاريخ الميلاد
+saudiID: الهوية
+phoneNumber: رقم الجوال
+phoneNumber2: رقم الجوال 2
+country: الدولة
+city: المدينة
+address: العنوان
+registeredStatus: حالة التسجيل
+documents: المستندات
+verifiedAt: تم التحقق في
+verifiedDocsDate: تاريخ التحقق من المستندات
+registeredAt: تم التسجيل في
+lastLogin: آخر تسجيل دخول
+logout: تسجيل الخروج
+verified: تم التحقق
+history: السجل
+agentAdminDetails: تفاصيل الوكيل
+agentAdminName: اسم الوكيل
+next: التالي
+previous: السابق
+sar: ر.س.
+today: اليوم
+yesterday: الأمس
+lastWeek: الأسبوع الماضي
+lastTwoWeeks: الأسبوعين الماضيين
+lastMonth: الشهر الماضي
+lastQuarter: الربع الأخير
+lastYear: العام الماضي
+allTime: كل الأوقات
+chooseRange: اختر المدة
+bidHistory: سجل المزايدات
+id: الرقم
+firstName: الإسم الأول
+fatherName: اسم الأب
+grandFatherName: اسم الجد
+lastName: الإسم الأخير
+familyName: اسم العائلة
+fullName: الاسم الكامل
+idNumber: رقم الهوية
+registeredDate: تاريخ التسجيل
+wallet: المحفظة
+heldAmount: المبلغ المعلق
+deposits: العرابين
+refunds: المبالغ المسترجعة
+onHold: معلق
+wins: الفائزين
+filter: تصفية
+deletedAccounts: الحسابات المحذوفة
+registered: مسجل
+paidDeposit: العرابين المدفوعة
+Never Paid Deposit: لم يدفع عربون
+winners: الفائزين
+cutomers: المستخدمين
+Deposits: العرابين
+customerFinanceRequests: الطلبات المالية للمستخدمين
+customers: المستخدمين
+pendingDepositSADAD: العرابين قيد الدفع (سداد)
+pendingDepositBankTransfer: العرابين قيد الدفع (تحويل بنكي)
+cancelledSADAD: ملغية (سداد)
+cancelledBankTransfers: ملغية (تحويل بنكي)
+activeDeposits: العرابين الحالية
+totalRefunded: مجموع الاسترجاعات
+currentBankAccounts: قيمة الحساب البنكي لدار
+pendingTransferToINFATH: الحوالات قيد الدفع إلى إنفاذ
+pendingTransferToAgents: الحوالات قيد الدفع إلى الوكلاء
+transferedToAgents: تم تحويلها إلى الوكلاء
+transferedToINFATH: تم تحويلها إلى إنفاذ
+pendingRefunds: الاسترجاعات قيد التنفيذ
+holdDeposits: العرابين المعلقة
+operationForEndedAuction: العمليات للمزاد المنتهي
+soldAssets: الأصول المباعة
+unsoldAssets: الأصول غير المباعة
+pendingAssetPaymentToAgent: الأصول قيد الدفع للوكيل
+pendingPaymentCommissionToAgent: العمولة قيد الدفع للوكيل
+paidCommission: العمولة المدفوعة
+unpaidCommission: العمولة غير المدفوعة
+deliveredItems: الأصول المستلمة
+undeliveredItems: الأصول غير المستلمة
+paymentsOverdueItems: المدفوعات المتأخرة
+collectedCommissionDAR: العمولة المحصلة (دار)
+pendingFeesCollection: الرسوم قيد الدفع
+agentInvoices: فواتير الوكيل
+customerInvoices: فواتير المستخدم
+infathInvoices: فواتير إنفاذ
+currentDepositReports: تقارير العرابين الحالية
+deposited: العرابين المودعة
+titleAr: العنوان
+titleEn: العنوان En
+descriptionAr: الوصف
+descriptionEn: الوصف En
+oneTime: مرة واحدة
+daily: يوميا
+weekly: أسبوعيا
+monthly: شهريا
+submit: إتمام
+description: الوصف
+message: الرسالة
+typeTheMessageHere: اكتب الرسالة
+subject: الموضوع
+emailBody: نص الرسالة
+paidTo: المدفوعة إلى
+depositAmount: مبلغ العربون
+refNumber: رقم المرجع
+depositDate: تاريخ العربون
+invoices: الفواتير
+paymentDateTime: تاريخ الدفع
+refundDateTime: تاريخ الاسترجاع
+name: الاسم
+goTo: اذهب إلى
+noDataFound: لم يتم العثور على أي بيانات في الجدول
+notFound: لا يوجد
+agentInfo: معلومات الوكيل
+agentId: رقم الوكيل
+verifiedDateTime: تاريخ التحقق
+verifiedDocumentDateTime: تاريخ التحقق من المستند
+registrationDateTime: تاريخ التسجيل
+lastLoginDateTime: تاريخ آخر تسجيل دخول
+saudiId: الهوية
+fullname: الاسم
+userId: رقم المستخدم
+customerDetails: تفاصيل المستخدم
+CustomerFinanceRequestsSADADMoneyTransfer: طلبات العرابين (سداد، تحويل الأموال)
+wrongPhoneNumberOrPassword: رقم الجوال أو كلمة المرور غير صحيحة
+totalDeposits: إجمالي العرابين
+sadadDeposits: إجمالي العرابين سداد
+bankTransferDeposits: إجمالي العرابين التحويل البنكي
+totalDepositsYesterday: إجمالي العرابين (الأمس)
+refunded: المسترجعة
+transferedToInfath: تم تحويلها إلى إنفاذ
+transferedToAgent: تم تحويلها إلى الوكيل
+unknownTransfered: التحويلات غير المعروفة في حساب البنك لدار
+rejectedTransfers: التحويلات المرفوضة
+currentDepositsA: العرابين الحالية أ
+currentDepositsB: العرابين الحالية ب
+currentDeposits: العرابين الحالية
+depositsStatisticsToday: إجمالي العرابين (اليوم)
+transactions: تحويلات
+darFinanceGeneralInfo: المالية
+totalCurrentDepositDar: إجمالي العرابين الحالية
+numberOfRefundRequests: عدد طلبات الاسترجاع
+currentInDarBankAccount: الرصيد الحالي في الحساب البنكي لدار
+Difference between Sadad paid invoice and paid Sadad in bank: الفرق بين فاتورة سداد المدفوعة وسداد المدفوعة في البنك
+totalUnknownSadadInBank: إجمالي سداد غير المعروف في البنك
+differenceBetweenBankAccountAndCurrentDeposits: الفرق بين حساب البنك العرابين الحالية
+rejectedRefund: الاسترجاعات المرفوضة
+shortage: الفائض أو العجز
+totalInvoices: إجمالي الفواتير
+paidAssetToDar: الأصول المدفوعة إلى دار
+paidAssetToAgent: الأصول المدفوعة إلى الوكيل
+paidInvoices: الفواتير المدفوعة
+pendingInvoices: الفواتير قيد الدفع
+overdueInvoices: الفواتير المتأخرة
+overdueItems: الأصول المتأخرة
+collectedCommissionToDar: العمولة المحصلة لدار
+items: الأصول
+totalInvoicesToAgent: إجمالي الفواتير إلى الوكيل
+infath: إنفاذ
+feesForZeroBid: الرسوم في حال عدم وجود مزايدات
+feesPaymentStatus: حالة دفع الرسوم
+user: المستخدم
+depositDateTime: تاريخ العربون
+forgotPasswordHeading: يرجى إدخال عنوان بريدك الإلكتروني أو رقم هاتفك للحصول على رمز التحقق لإعادة تعيين كلمة المرور
+sendLink: إرسال الرابط
+password_reset_email_sent: لقد أرسلنا رسالة لإعادة تعيين كلمة المرور.
+confirmPassword: تأكيد كلمة المرور
+passwordLength: يجب أن تكون كلمة المرور بين 8-12 حرفًا
+passwordComplexity: يجب أن تحتوي كلمة المرور على حرف كبير وحرف صغير ورقم وحرف خاص
+module: الوحدة
+permission: الصلاحية
+permissionDeniedMessage: ليس لديك الصلاحية لهذا.
+permissions: الصلاحيات
+manage: إدارة
+create: إضافة
+delete: حذف
+inactive: غير نشط
+manager: مدير
+supervisor: مشرف لجنة
+head: رئيس لجنة
+others: آخرون
+collectedCommissionFeesToDAR: العمولة / الرسوم المحصلة لدار
+dar: دار
+saveChanges: حفظ
+customerPaid: المدفوع
+tasks: المهام
+deadline: الموعد النهائي
+info: معلومات
+passport: جواز سفر
+nationalId: الهوية
+companyRegistration: السجل التجاري
+articleOfCorporation: عقد التأسيس
+powerOfAttorney: الوكالة
+other: اخرى
+uploadDocument: رفع ملف
+upload: رفع
+docuemntType: نوع المستند
+documentName: اسم المستند
+download: تحميل
+documentDeletion: هل أنت متأكد أنك تريد حذف هذا المستند؟
+documentDeletionMessage: بمجرد الحذف، لن تتمكن من استعادة هذا المستند
+commercialNumber: رقم السجل التجاري
+verificationStatus: حالة التحقق
+agencyDetails: تفاصيل الوكالة
+adminDetails: تفاصيل المشرف
+docuemnts: الوثائق
+agentPersonalDetails: تفاصيل وكيل البيع
+adminName: اسم المشرف
+customerFinanceRequestsSADADMoneyTransfer: طلبات سداد
+pendingTransferToAgent: تحويل قيد التنفيذ الى الوكيل
+agentBankAccountDetails: تفاصيل حساب الوكيل البنكي
+bankName: اسم البنك
+bankAccountName: اسم الحساب البنكي
+iban: رقم الآيبان
+routingNumber: رقم التوجيه
+soldEventFinance: المالية - المزادات المباعة
+shareBankAccountDetails: مشاركة تفاصيل الحساب البنكي
+copyCredentials: نسخ بيانات الاعتماد
+totalProperties: إجمالي الأصول
+propertyValue: قيمة الأصل
+totalVisitors: إجمالي الزوار
+totalUnpaid: إجمالي غير المدفوع
+totalPaid: إجمالي المدفوع
+biddingReport: تقرير المزايدات
+n/o: مرات  المزايدة
+soldNotSold: مباع أو غير مباع
+highestBidderValue: قيمة أعلى مزايدة
+bidderNationalId: رقم الهوية
+registerDate: تاريخ التسجيل
+eventType: نوع المزاد
+propertyDescription: الوصف
+totalRegistered: إجمالي المسجلين
+totalViews: إجمالي الزوار
+registeredDateTime: تاريخ التسجيل
+depositQm: تم الإيداع؟
+dialogLotTitle: القطعة {lotNumber} - {userType}
+registeredUsers: المستخدمين المسجلين
+userFullName: الاسم الكامل
+userNationalId: رقم الهوية
+interestedUsers: المستخدمين المهتمين
+bidders: المزايدين
+interestedDate: تاريخ الاهتمام
+unpaidCommissions: العمولات غير المدفوعة
+commissionFees: العمولات / الرسوم
+cancelledEvents: المزادات الملغاة
+cancelledValue: قيمة الملغي
+totalAuctions: إجمالي المزادات
+assetValue: قيمة الأصول
+totalIncrementValue: إجمالي قيمة الحد الأدنى للمزايدة
+percentageFromStartingPrice: النسبة المئوية من السعر الافتتاحي
+assetsWithBids: الأصول مع المزايدات
+assetsWithNoBids: الأصول بدون مزايدات
+draft: مسودة
+underApproval: قيد الموافقة
+cancelled: ملغي
+canceled: ملغي
+customerStatistics: إحصائيات العملاء
+paidToInfath: المدفوعة إلى إنفاذ
+paidToAsset: الأصول المدفوعة
+refInvoiceNumber: رقم الفاتورة
+refundDate: تاريخ الاسترجاع
+refund: استرجاع
+customerFinances: المالية للعملاء
+close: إغلاق
+accountBalanceSar: رصيد الخساب (ر.س.)
+allAssets: جميع الأصول
+bids: المزايدات
+private: خاص
+auctionType: نوع المزاد
+assetType: نوع الأصول
+duration: المدة
+createAuction: إضافة مزاد
+creationDateTime: تاريخ الإضافة
+auctionNumber: رقم المزاد
+hybrid: هجين
+online: إلكتروني
+qm: ؟
+deedNumber: رقم الصك
+pricesSetQm: تم تعيين الأسعار؟
+assetsStatus: حالة الأصول
+highestBid: أعلى مزايد
+auctionStatistics: إحصائيات المزاد
+assetsWithNoSetPrices: الأصول بدون الأسعار
+assetsUnderTheDecision: الأصول قيد الترسية
+addAsset: إضافة أصل
+actionsHistory: تاريخ الإجراءات
+editPrices: تعديل الأسعار
+depositsReport: تقرير العرابين
+highestBidderReport: تقرير أعلى مزايد
+biddersReport: تقرير المزايدين
+noAvailableActions: لا توجد إجراءات
+publish: نشر
+save: حفظ
+titleDeed: رقم الصك
+infathCommission: عمولة إنفاذ
+manger_system: مدير النظام
+secretary_committee: أمين اللجنة
+head_committee: رئيس اللجنة
+admin: الإدارة
+editStaff: تعديل الموظف
+resendOTPIn: إعادة إرسال رمز التحقق في
+resendOTP: إعادة إرسال رمز التحقق
+auctions: المزادات
+endPrice: السعر النهائي
+nSlashO: مرات المزاد
+agentNameAr: اسم الوكيل
+agentNameEn: اسم الوكيل En
+agentEmailAddress: عنوان بريد الوكيل الإلكتروني
+whatsapp: واتساب
+lastActivity: آخر نشاط
+By: بواسطة
+priority: الأولوية
+call: اتصال
+chat: محادثة
+totalTickets: إجمالي التذاكر
+solvedTickets: تذاكر تم حلها
+pendingTickets: التذاكر قيد الإجراء
+reopenTickets: إعادة فتح التذاكر
+totalNoneRelatedToDar: إجمالي غير متعلق بدار
+totalHighPriority: إجمالي الأولوية العالية
+totalMediumPriority: إجمالي الأولوية المتوسطة
+totalLowPriority: إجمالي الأولوية المنخفضة
+overdueTickets: التذاكر المتأخرة
+topic: الموضوع
+addTicket: إضافة تذكرة
+source: المصدر
+messengers: الرسالة
+relatedToDarQm: متعلق بدار؟
+socialMedia: وسائل التواصل الاجتماعي
+sms: رسالة نصية
+low: منخفض
+high: عالي
+meduim: متوسط
+closed: مغلق
+customerNameOriD: اسم العميل أو الهوية
+assignedTo: تم تعيينه لـ
+attachement: المرفق
+typeYourMessageHere: اكتب رسالتك...
+ksa: المملكة العربية السعودية
+chooseCity: اختر المدينة
+cities: المدن
+bank: بنك
+saveAsDraft: حفظ كمسودة
+logo: الشعار
+sendOtp: إرسال رمز التحقق
+notVerified: غير موثق
+not_verified: غير موثق
+titleDeedNumber: رقم سند الملكية
+titleDate: تاريخ العنوان
+fromOfProperty: شكل الملكية
+propertAge: عمر العقار
+streetWidth: عرض الشارع
+sqauareMeter: متر مربع
+rooms: غرف
+livingRooms: غرف معيشة
+numberOfBaths: عدد المسارات
+blockNumber: رقم البلوك
+documentsNumber: رقم الوثائق
+plotNumber: رقم القطعة
+deliveryDurationForAssetsToBeCollectedAfterAuction: مدة تسليم الأصول للتحصيل بعد المزاد
+durationForPreparingTheTitleDeedDocumentation: مدة تحضير سند الملكية / الوثائق
+week: أسبوع
+commissionForDar: عمولة لدار
+commissionForAgent: عمولة للوكيل
+buyerDefaultFee: رسوم تعثر المشتري
+listingFees: رسوم الإدراج
+payCommissionTo: دفع العمولة إلى
+payAssetTo: دفع الأصول إلى
+taxPercentageForAsset: نسبة الضريبة على الأصول
+percentage: نسبة مئوية
+flat: سعر ثابت
+owner: المالك
+inspectionDocument: مستند التفتيش
+titleDeedDate: تاريخ الصك
+north: الشمال
+south: الجنوب
+east: الشرق
+west: الغرب
+residential: سكني
+commercial: تجاري
+agricultural: زراعي
+commercialResidential: تجاري سكني
+useOfProperty: استخدام العقار
+features: الميزات
+video: فيديو
+auctionNameAr: اسم المزاد بالعربية
+auctionNameEn: اسم المزاد بالإنجليزية
+basicInformation: المعلومات الأساسية
+property: عقار
+vehicle: سيارة
+electronics: إلكترونيات
+plateNumber: رقم لوحة
+luxuryItem: سلعة فاخرة
+withInfathQm: مع إنفاذ؟
+REGACertificate: شهادة REGA
+durationBetweenAuctions: المدة بين المزادات
+logoAndCatalog: الشعار والكتالوج
+catalog: الكتالوج
+youtubeLink: رابط يوتيوب
+arabicText: النص العربي
+englishText: النص الإنجليزي
+termsAndConditions: الشروط والأحكام
+saveAndAddAsset: حفظ وإضافة أصل
+pleaseSelect: الرجاء الاختيار
+noResultsFound: لا توجد نتائج
+pleaseChooseAgent: الرجاء اختيار الوكيل
+luxury_items: السلع الفاخرة
+plate_number: رقم اللوحة
+selectStartDateTime: اختر تاريخ ووقت البدء
+selectEndDateTime: اختر تاريخ ووقت الانتهاء
+selectDateTime: اختر تاريخ ووقت
+durationBetweenAuctionsInMinutes: المدة بين المزادات بالدقائق
+minute: دقيقة
+hour: ساعة
+day: يوم
+createAsset: إنشاء أصل
+assetTypes: أنواع الأصول
+manageHybridAuctions: إدارة المزادات الهجينة
+numberOfSoldAssets: عدد الأصول المباعة
+numberOfUnsoldAssets: عدد الأصول غير المباعة
+previewMode: وضع المعاينة
+timeControl: التحكم في الوقت
+currentAssetInfo: معلومات الأصل الحالي
+selectNextAsset: اختر الأصل التالي
+participantsList: قائمة المشاركين
+operate: تشغيل
+asset: الأصل
+breakControl: التحكم في الاستراحة
+inventory: المخزون
+hybridAuctionLocation: موقع المزاد الهجين
+villa: فيلا
+apartment: شقة
+land: أرض
+building: مبنى
+raw_land: أرض خام
+farming_land: أرض زراعية
+housing_land: أرض سكنية
+commercial_land: أرض تجارية
+house: بيت
+chalet: شاليه
+store: متجر
+office: مكتب
+warehouse: مستودع
+workshop: ورشة
+floor: طابق
+factory: مصنع
+school: مدرسة
+medical_center: مركز طبي
+assetNameAr: اسم الأصل بالعربية
+assetNameEn: اسم الأصل بالإنجليزية
+districtAr: الحي بالعربية
+districtEn: الحي بالإنجليزية
+propertyInformation: معلومات العقار
+titleDeedInformation: معلومات الصك
+additionalFeatures: الميزات الإضافية
+images: الصور
+documentsAndVideo: المستندات والفيديو
+prices: الأسعار
+commissionAndFees: العمولة والرسوم
+deliveryAndDocumentationTimeline: الجدول الزمني للتسليم والتوثيق
+editAuction: تعديل المزاد
+hybridAuctionLocationAr: موقع المزاد الهجين بالعربية
+hybridAuctionLocationEn: موقع المزاد الهجين بالإنجليزية
+propertyFront: واجهة العقار
+vatOnCommission: ضريبة القيمة المضافة على العمولة
+map: الخريطة
+northeast: شمال شرق
+northsouth: شمال جنوب
+eastwest: شرق غرب
+3direction: 3 واجهات
+4direction: 4 واجهات
+northwest: شمال غرب
+southeast: جنوب شرق
+southwest: جنوب غرب
+exportCSV: تصدير كملف CSV
+exportExcel: تصدير كملف Excel
+searchTheMap: ابحث
+longitude: خط الطول
+latitude: خط العرض
+needApprovalQm: بحاجة للموافقة؟
+youWillProvidInvoicesQm: ستقدم الفواتير؟
+youWillCollectCommissionQm: ستقوم بتحصيل العمولة؟
+assetsIsWithDarQm: الأصول مع دار؟
+pleaseFillTheRequiredFileds: الرجاء ملء الحقول المطلوبة
+cancelledAssets: الأصول الملغاة
+goBack: العودة
+assetStatistics: إحصائيات الأصول
+highestBidValue: أعلى قيمة مزايدة
+depositsHistory: سجل الودائع
+powerOfAttorneys: الوكالات
+approveAuction: الموافقة على المزاد
+approveAuctionDescription: هل أنت متأكد من الموافقة على المزاد؟
+cancelAuction: إلغاء المزاد
+cancelAuctionDescription: هل أنت متأكد من إلغاء المزاد؟
+extendAuction: تمديد المزاد
+goToLiveUpcoming: الانتقال إلى الحي (القادم)
+goToLiveUpcomingDescription: هل أنت متأكد من الانتقال إلى الحي (القادم)؟
+setIban: تعيين الحساب الدولي
+editIban: تعديل الحساب الدولي
+editHeadSecretary: تعديل رئيس / أمين السر
+setHeadSecretary: تعيين رئيس / أمين السر
+suspendAuction: تعليق المزاد
+suspendAuctionDescription: هل أنت متأكد من تعليق المزاد؟
+editOperations: تعديل العمليات
+operationsAuctionLot: العمليات - {auction} - القطعة {lotNumber}
+delivery: التسليم
+deliveryShipmentNotes: ملاحظات التسليم / الشحن
+completedQm: مكتمل
+estimatedDate: التاريخ المتوقع
+to: إلى
+lot: الأصل
+videoUrl: رابط الفيديو
+openMap: فتح الخريطة
+setPrices: تعيين الأسعار
+reAuction: إعادة المزاد
+MinimumAcceptablePriceforOffer: الحد الأدنى للسعر المقبول للعرض
+minimunIncreamentProceOffer: الحد الأدنى للزيادة في السعر للعرض
+minimunIncreament: الحد الأدنى للزيادة
+deliveryTimeline: الجدول الزمني للتسليم
+deliveryOverdueFees: رسوم التأخير في التسليم
+paymentOverdueFees: رسوم التأخير في الدفع
+customer: العميل
+uploads: التحميلات
+location: الموقع
+pricingDescription: التسعير والوصف
+pleaseChooseEvent: الرجاء اختيار الحدث
+pleaseChooseType: الرجاء اختيار النوع
+pleaseChooseCity: الرجاء اختيار المدينة
+SomeoneFromInfath: شخص من إنفاث
+editAsset: تعديل الأصل
+areYouSureYouWantToCancelTheSell: هل أنت متأكد أنك تريد إلغاء البيع؟
+cancelledBy: تم الإلغاء بواسطة
+cancelationFees: رسوم الإلغاء
+reason: السبب
+buyer: المشتري
+seller: البائع
+present: جارى
+under_approval: قيد الموافقة
+accreditationRequest: طلب الاعتماد
+accreditationReject: عدم الاعتماد
+accredite: اعتماد
+accrediteAuction: اعتماد المزاد
+accreditationRequestDescription: لا يمكنك تعديل المزاد بعد طلب الاعتماد. هل تريد تأكيد الطلب؟
+accrediteAuctionDescription: هل أنت متأكد من اعتماد المزاد؟
+accreditationRejectDescription: هل أنت متأكد من عدم اعتماد المزاد؟
+accreditationRequestSent: تم إرسال طلب الاعتماد
+accreditationHasBeenRejected: تم رفض الاعتماد
+accreditationHasBeenAccredited: تم الاعتماد
+dynamicExport: تصدير {title}
+totalValueOfAssets: إجمالي قيمة الأصول
+sponsoredByInfath: برعاية إنفاذ
+assetApproveSell: ترسية بيع الأصل
+assetApproveSellDescription: هل أنت متأكد من ترسية بيع الأصل؟
+assetSellHasBeenApproved: تم ترسية بيع الأصل
+assetRejectSell: عدم ترسية بيع الأصل
+assetRejectSellDescription: هل انت متأكد من عدم الترسية لايمكنك التراجع عن هذه الخطوة بعد التأكيد؟
+assetSellHasBeenRejected: تم عدم ترسية بيع الأصل
+resumeAuctioningAsset: استئناف المزاد على الأصل
+resumeAuctioningAssetDescription: هل أنت متأكد من استئناف المزاد على الأصل؟
+auctioningAssetHasBeenResumed: تم استئناف المزاد على الأصل
+cancelAssetSell: إلغاء بيع الأصل
+cancelAssetSellDescription: هل أنت متأكد من إلغاء بيع الأصل؟
+assetHasBeenSuspensed: تم تعليق بيع الأصل
+auctionHasBeenSuspended: تم تعليق المزاد
+publishAuction: نشر المزاد
+publishAuctionDescription: هل أنت متأكد من نشر المزاد؟
+unpublishAuction: إلغاء نشر المزاد
+unpublishAuctionDescription: هل أنت متأكد من إلغاء نشر المزاد؟
+auctionHasBeenPublished: تم نشر المزاد
+auctionHasBeenUnpublished: تم إلغاء نشر المزاد
+document: المستند
+visibleForCustomerQm: مرئي للعميل؟
+deletingFile: هل أنت متأكد من حذف هذا الملف؟
+deletingFileDescription: بمجرد الحذف، لن تتمكن من استعادة هذا الملف
+propertyTypeInAr: نوع العقار بالعربية
+propertyTypeInEn: نوع العقار بالإنجليزية
+titleDeedsInformation: معلومات سندات الملكية
+add: إضافة
+pleaseChooseTax: الرجاء اختيار الضريبة
+assetUpdatedSuccessfully: تم تحديث الأصل بنجاح
+assetCreatedSuccessfully: تم إنشاء الأصل بنجاح
+updateAsset: تحديث الأصل
+agentCommission: عمولة الوكيل
+isReservePriceHidden: هل اقل سعر مخفي؟
+auctioningAssetHasBeenExtended: تم تمديد المزاد على الأصل
+assetHasBeenReauctioned: تم إعادة المزاد على الأصل
+ibanUpdatedSuccessfully: تم تحديث الحساب الدولي بنجاح
+discLogo: الصيغة المدعومة - Jpeg، JPG، PNG
+discCatalog: الصيغة المدعومة - PDF
+auctionUpdatedSuccessfully: تم تحديث المزاد بنجاح
+auctionCreatedSuccessfully: تم إنشاء المزاد بنجاح
+bidderPrice: سعر المزايد
+searchForChat: ابحث في المحادثات
+loading...: جاري التحميل ...
+assetInformation: معلومات الأصل
+gregorian: الميلادي
+auctioningEventHasBeenCancelled: تم إلغاء حدث المزاد
+block: "حذر"
+unblock: "فك الحذر"
+personalInfo: "معلومات شخصية"
+durationBetweenAssets: "المدة بين الأصول"
+globalSuccess: "تمت العملية بنجاح"
+assetStatus: "حالة الأصل"
+tax: ضريبة
+subtotal: المجموع الفرعي
+total: المجموع الكلي
+paymentMethod: "طريقة الدفع"
+needApproval: "بحاجة للموافقة"
+hideReservePrice: "إخفاء اقل سعر"
+otherTypeInAr: "نوع آخر بالعربية"
+otherTypeInEn: "نوع آخر بالإنجليزية"
+approveRefund: "قبول الاسترجاع "
+rejectRefund: "رفض الاسترجاع"
+in_progress: "قيد الاجراء"
+bulkRefund: "استرجاعات مجمعة"
+customerRefundRequests: "طلبات استرجاع العملاء "
+InfathRefundRequests: "طلبات استرجاع إنفاذ"
+bulkConfirm: "أنت على وشك رد الأموال ل {ids}، هل أنت متأكد؟"
+createRefund: "انشاء استرجاع"
+selectedCustomer: العميل المحدد
+selectedUser: المستخدم المحدد
+updated_at: تم التعديل في
+downloadBulkFile: تحميل ملف بالجملة
+bulkDownloadMassage: "أنت على وشك تحميل ملف يحتوي على {length} عناصر"
+ExecutionDate: تاريخ التنفيذ
+transfered: تم النقل
+InfathRefund: استرجاع إنفاذ
+pendingCommissionToDar: العمولة قيد التنفيذ إلى دار
+paid: تم الدفع
+dueDate: تاريخ الاستحقاق
+sendInfathTransferReport: إرسال تقرير تحويل إنفاذ
+solidAssets: الأصول الثابتة
+unSolidAssets: الأصول غير الثابتة
+pendingCommissionPaymentToAgent: دفعة العمولة المعلقة للوكيل
+Sold: تم البيع
+Unsold: غير مباع
+AddFinanceInfo: إضافة معلومة مالية
+bank_account_balance: رصيد الحساب البنكي
+unknown_sadad: سداد غير معروف
+unknown_bank_transfer: تحويل بنكي غير معروف
+balance: رصيد
+rejected_transfer: تحويل مرفوض
+not_set: غير محدد
+bank_transfer: تحويل بنكي
+credit_card: بطاقة ائتمان
+refunded_ordered: تم استرداد الطلب
+hold: معلق
+eventHeadSecretaryUpdated: تم تحديث رئيس اللجنة
+cancelled/suspended: ملغى/معلق
+lastPrice: آخر سعر
+suspendAsset: تعليق الأصل
+paymentHistory: تاريخ الدفع
+manager_cheque: شيك المدير
+cheque: شيك
+delivered: تم التوصيل
+sadad: سداد
+editCustomerDeposit: تعديل إيداع العميل
+files: الملفات
+auctions_sold: المزادات المباعة
+auctions_unsold: المزادات غير المباعة
+tenses: الأزمنة
+autoBid: المزايدة التلقائية
+unpaid: غير مدفوع
+notDone: غير مكتمل
+editOperation: "تعديل العملية"
+question: سؤال
+alert: تنبيه
+bidding: مزاد
+heavy_equipment: معدات ثقيلة
+car: سيارة
+hybridDashboard: تحكم الهجين
+pleaseChoose: قم بالاختيار
+update: تحديث
+POA: الوكالة
+legalCapacity: القدرة القانونية
+foreignBidder: مزايد أجنبي
+set: تعيين
+timer: مؤقت
+endAuction: إنهاء المزاد
+removeTimer: إزالة المؤقت
+nextBid: العرض التالي
+addBid: إضافة عرض
+bidderNumb: رقم المزايد
+order: الترتيب
+time: الوقت
+minutes: دقائق
+participantsHistory: تاريخ المشاركين
+interestedPeople: الأشخاص المهتمون
+visitors: الزوار
+bulkSendNotification: إرسال الإشعارات بكميات كبيرة
+notification: اشعار
+editBid: تعديل المزايدة
+youGonnaDelete: ستقوم بحذف العنصر ذو المعرف {id}، هل أنت متأكد؟
+startPrices: الأسعار الافتتاحية
+acceptPricePar: هل أنت متأكد أنك تريد قبول هذا السعر؟
+rejectPricePar: هل أنت متأكد أنك تريد رفض هذا السعر؟
+approvalModal: نافذة الموافقة
+under_the_decision: قيد الترسية
+licence: الترخيص
+PAID_COMMISSION_TO_DAR: العمولة المدفوعة إلى دار
+TRANSFER_DEPOSIT_TO_ENFATH: تحويل العربون إلى إنفاذ
+SEND_INFATH_REPORT: إرسال تقرير إنفاذ
+DELIVER_DOCUMENTS: تسليم المستندات
+DELIVERY_TO_DAR: تسليم إلى دار
+blockUser: حظر المستخدم
+blockReason: سبب الحظر
+assetName: اسم الأصل

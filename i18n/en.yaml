@@ -1,0 +1,974 @@
+darFinanceBankTransfers: DAR Finance Bank Transfers
+totalBankTransferDarSystem: Total in DAR System
+totalBankTransferRefunded: Total Refunded
+totalSadadDarSystem: Total SADAD in DAR System
+totalSadadRefunded: Total Refunded SADAD
+totalSadadNotRefunded: Total Unrefunded SADAD
+darFinanceTotal: Total DAR Finance
+totalRevenueSadadAndBankTransfer: Total Revenue from SADAD and Bank Transfers
+totalRefundedSadadAndBankTransfer: Total Refunded SADAD and Bank Transfers
+totalNotRefundedSadadAndBankTransfer: Total Unrefunded SADAD and Bank Transfers
+totalBankTransferNotRefunded: Total Unrefunded
+darFinanceSadad: DAR Finance SADAD
+upcomingReports: Upcoming Reports
+currentReports: Current Reports
+pastReports: Past Reports
+biddingReports: Bidding Reports
+alertReports: Alert Reports
+questionReports: Question Reports
+propertyNumber: Property Number
+propertyImage: Property Image
+propertyType: Property Type
+propertySize: Property Size
+startPrice: Starting Price
+depositPrice: Deposit Price
+incrementPrice: Increment Price
+reservePrice: Reserve Price
+reservePriceStatus: Reserve Price Status
+approvalStatus: Approval Status
+publishStatus: Publish Status
+reviewedBy: Reviewed By
+publishedBy: Published By
+currentPrice: Current Price
+numberOfBids: Number of Bids
+highestBidderName: Highest Bidder Name
+suspendedStatus: Suspended Status
+agentDecision: Agent Decision
+agentNotes: Agent Notes
+soldQm: Sold
+paymentStatus: Payment Status
+extendedStatus: Extended Status
+totalWinners: Total Winners
+Bidding: Bidding
+bidderFullName: Bidder Full Name
+bidderId: Bidder ID
+bidPrice: Bid Price
+autoBidQm: Auto Bid
+maxPrice: Maximum Price
+minPrice: Minimum Price
+comment: Comment
+createdAt: Created At
+reset: Reset
+apply: Apply
+dateRange: Date Range
+suspendAuctionQm: Suspend Event
+agents: Agents
+numberOfProperties: Number of Properties
+numberOfSoldProperties: Number of Sold Properties
+totalSoldValue: Total Sold Value
+numberOfUnsoldProperties: Number of Unsold Properties
+totalUnsoldValue: Total Unsold Value
+event: Event
+infathQm: Infath
+done: Done
+propertiesReports: Properties Reports
+agentsReports: Agents Reports
+eventNumber: Event Number
+eventStatus: Event Status
+eventName: Event Name
+numberOfAssets: Number of Assets
+startDateTime: Start Date and Time
+endDateTime: End Date and Time
+ibanQm: IBAN
+chairman: Chairman
+secretary: Secretary
+preview: Preview
+AccreditationRequest: Accreditation Request
+approve: Approve
+historyOfActions: History of Actions
+suspend: Suspend
+userDetails: User Details
+depositRefundTransactions: Deposit Refund Transactions
+auctionBiddingReport: Event & Bidding Report
+communication: Communication
+editCustomerDetails: Edit Customer Details
+physicalAddress: Physical Address
+emailAddress: Email Address
+loginBy: Login By
+verificationDateTime: Verification Date and Time
+documentVerificationDateTime: Document Verification Date and Time
+UserAuctionPreferences: User Event Preferences
+PowerofAttorneys: Power of Attorneys
+PropertyType: Property Type
+Region: Region
+Comments: Comments
+Active: Active
+Disabled: Disabled
+Waiting For Approval: Waiting For Approval
+FavoriteAgents: Favorite Agents
+payments: Payments
+paidAssets: Paid Assets
+unpaidAssets: Unpaid Assets
+PaidCommission: Paid Commission
+UnpaidCommission: Unpaid Commission
+PendingPaymentCommissiontoAgent: Pending Payment Commission to Agent
+UndeliveredItems: Undelivered Items
+OverdueItems: Overdue Items
+CollectedCommissiontoDAR: Collected Commission to DAR
+UserBankAccountDetails: User Bank Account Details
+AddBankAccount: Add Bank Account
+SABAccount: SAB Account
+share: Share
+edit: Edit
+title: Title
+details: Details
+action: Action
+Deposits / Refunds: Deposits / Refunds
+Payment History: Payment History
+paymentType: Payment Type
+referenceNumber: Reference Number
+status: Status
+lotNumber: Lot Number
+amount: Amount
+totalBids: Total Bids
+winningBidsAmount: Winning Bids Amount
+deliveryStatus: Delivery Status
+winingDateTime: Winning Date and Time
+upcoming: Upcoming
+current: Current
+ended: Ended
+totalAssets: Total Assets
+depositValue: Deposit Value
+bidsValue: Bids Value
+totalWins: Total Wins
+totalSpent: Total Spent
+autoBidOn: Auto Bid On
+totalParticipated: Total Participated
+totalInterested: Total Interested
+biddingHistory: Bidding History
+auction: Event
+agent: Agent
+bidDateTime: Bid Date and Time
+yes: Yes
+no: No
+bankDetails: Bank Details
+withInfath?: With Infath?
+winnerPaymentStatus: Winner Payment Status
+winnerBidAmount: Winner Bid Amount
+totalAmount: Total Amount
+darCommission: DAR Commission
+vatAmount: VAT Amount
+winnerQm: Winner
+bidAmount: Bid Amount
+autoBid?: Auto Bid?
+totalParticipations: Total Participations
+autoBidIsOn: Auto Bid Is On
+payment: Payment
+refrenceNumber: Reference Number
+dueAmount: Due Amount
+vat: VAT
+fees: Fees
+dueDateTime: Due Date and Time
+invoice: Invoice
+role: Role
+staff: Staff
+addStaff: Add Staff
+by: By
+dateTime: Date and Time
+totalEvents: Total Events
+propertiesWithBids: Properties With Bids
+propertiesWithNoBids: Properties With No Bids
+totalBidders: Total Bidders
+totalParticipants: Total Participants
+valueWithNoBids: Value With No Bids
+language: Language
+email: Email
+password: Password
+oldPassword: Old Password
+inputPassword: Input Password
+forgotPassword: Forgot Password
+login: Login
+languageSwitcher: Language Switcher
+enterOTP: Enter OTP
+error: Error
+wrongEmailOrPassword: Wrong Email or Password
+wrongOTP: Wrong OTP
+weSentOTP: We Sent OTP
+dashboard: Dashboard
+advertisingManagement: Advertising Management
+all: All
+properties: Properties
+assets: Assets
+cars: Cars
+approved: Approved
+pending: Pending
+rejected: Rejected
+reAuctioned: Re-Auctioned
+sold: Sold
+soldValue: Sold Value
+unsold: Unsold
+unsoldValue: Unsold Value
+customerName: Customer Name
+mobileNumber: Mobile Number
+type: Type
+price: Price
+commission: Commission
+listedDate: Listed Date
+result: Result
+actions: Actions
+createEvent: Create Event
+confirm: Confirm
+reject: Reject
+view: View
+cancel: Cancel
+typeResonToReject: Type Reason to Reject
+areYouSureYouWantToRejectTheAdvertisement: Are You Sure You Want to Reject the Advertisement?
+areYouSureYouWantToApproveTheAdvertisement: Are You Sure You Want to Approve the Advertisement?
+approveAdvertisement: Approve Advertisement
+rejectAdvertisement: Reject Advertisement
+resetPassword: Reset Password
+finance: Finance
+operations: Operations
+liveReports: Live Reports
+manageAgents: Manage Agents
+manageCustomers: Manage Customers
+manageAuctions: Manage Events
+manageAssets: Manage Assets
+advertise: Advertise
+tickets: Tickets
+endedAssetsReports: Ended Assets Reports
+eventReports: Event Reports
+manageStaff: Manage Staff
+profile: Profile
+hijri: Hijri
+darAuction: DAR Auction
+totalMetrics: Total Metrics
+events: Events
+past: Past
+unpublished: Unpublished
+suspended: Suspended
+bidsHistory: Bids History
+customersStatistics: Customers Statistics
+active: Active
+requestedDeposit: Requested Deposit
+deposit: Deposit
+unactive: Inactive
+blocked: Blocked
+bidder: Bidder
+winner: Winner
+customersTickets: Customers Tickets
+completed: Completed
+highPriority: High Priority
+mediumPriority: Medium Priority
+lowPriority: Low Priority
+manageEvents: Manage Events
+pendingOTP: Pending OTP
+addAgent: Add Agent
+editAgent: Edit Agent
+search: Search
+export: Export
+agentDetails: Agent Details
+financeTransactions: Finance Transactions
+eventReport: Event Report
+sendNotification: Send Notification
+sendEmail: Send Email
+sendSMS: Send SMS
+changePasswordRequest: Change Password Request
+editAgentDetails: Edit Agent Details
+editRegisteredStatus: Edit Registered Status
+agentID: Agent ID
+agentName: Agent Name
+dob: Date of Birth
+saudiID: Saudi ID
+phoneNumber: Phone Number
+phoneNumber2: Phone Number 2
+country: Country
+city: City
+address: Address
+registeredStatus: Registered Status
+documents: Documents
+verifiedAt: Verified At
+verifiedDocsDate: Verified Documents Date
+registeredAt: Registered At
+lastLogin: Last Login
+logout: Logout
+verified: Verified
+history: History
+agentAdminDetails: Agent Admin Details
+agentAdminName: Agent Admin Name
+next: Next
+previous: Previous
+sar: SAR
+today: Today
+yesterday: Yesterday
+lastWeek: Last Week
+lastTwoWeeks: Last Two Weeks
+lastMonth: Last Month
+lastQuarter: Last Quarter
+lastYear: Last Year
+allTime: All Time
+chooseRange: Choose Range
+bidHistory: Bid History
+id: ID
+firstName: First Name
+fatherName: Father Name
+grandFatherName: Grand Father Name
+lastName: Last Name
+familyName: Family Name
+idNumber: ID Number
+registeredDate: Registered Date
+wallet: Wallet
+heldAmount: Held Amount
+deposits: Deposits
+refunds: Refunds
+onHold: On Hold
+wins: Wins
+filter: Filter
+deletedAccounts: Deleted Accounts
+registered: Registered
+paidDeposit: Paid Deposit
+Never Paid Deposit: Never Paid Deposit
+winners: Winners
+cutomers: Customers
+Deposits: Deposits
+customerFinanceRequests: Customer Finance Requests
+customers: Customers
+pendingDepositSADAD: Pending Deposit SADAD
+pendingDepositBankTransfer: Pending Deposit Bank Transfer
+cancelledSADAD: Cancelled SADAD
+cancelledBankTransfers: Cancelled Bank Transfers
+activeDeposits: Active Deposits
+totalRefunded: Total Refunded
+currentBankAccounts: Current Bank Accounts
+pendingTransferToINFATH: Pending Transfer to INFATH
+pendingTransferToAgents: Pending Transfer to Agents
+transferedToAgents: Transferred to Agents
+transferedToINFATH: Transferred to INFATH
+pendingRefunds: Pending Refunds
+holdDeposits: Hold Deposits
+operationForEndedAuction: Operation for Ended Event
+soldAssets: Sold Assets
+unsoldAssets: Unsold Assets
+pendingAssetPaymentToAgent: Pending Asset Payment to Agent
+pendingPaymentCommissionToAgent: Pending Payment Commission to Agent
+paidCommission: Paid Commission
+unpaidCommission: Unpaid Commission
+deliveredItems: Delivered Items
+undeliveredItems: Undelivered Items
+paymentsOverdueItems: Payments Overdue Items
+collectedCommissionDAR: Collected Commission DAR
+pendingFeesCollection: Pending Fees Collection
+agentInvoices: Agent Invoices
+customerInvoices: Customer Invoices
+infathInvoices: Infath Invoices
+currentDepositReports: Current Deposit Reports
+deposited: Deposited
+titleAr: Title (Arabic)
+titleEn: Title (English)
+descriptionAr: Description (Arabic)
+descriptionEn: Description (English)
+oneTime: One Time
+daily: Daily
+weekly: Weekly
+monthly: Monthly
+submit: Submit
+description: Description
+message: Message
+typeTheMessageHere: Type the Message Here
+subject: Subject
+emailBody: Email Body
+paidTo: Paid To
+depositAmount: Deposit Amount
+refNumber: Reference Number
+depositDate: Deposit Date
+invoices: Invoices
+paymentDateTime: Payment Date and Time
+refundDateTime: Refund Date and Time
+name: Name
+goTo: Go To
+noDataFound: No Data Found
+notFound: Not Found
+agentInfo: Agent Info
+agentId: Agent ID
+verifiedDateTime: Verified Date and Time
+verifiedDocumentDateTime: Verified Document Date and Time
+registrationDateTime: Registration Date and Time
+lastLoginDateTime: Last Login Date and Time
+saudiId: Saudi ID
+fullname: Full Name
+fullName: Full Name
+userId: User ID
+customerDetails: Customer Details
+CustomerFinanceRequestsSADADMoneyTransfer: Customer Finance Requests for SADAD Money Transfer
+wrongPhoneNumberOrPassword: Wrong Phone Number or Password
+totalDeposits: Total Deposits
+sadadDeposits: SADAD Deposits
+bankTransferDeposits: Bank Transfer Deposits
+totalDepositsYesterday: Total Deposits Yesterday
+refunded: Refunded
+transferedToInfath: Transferred to Infath
+transferedToAgent: Transferred to Agent
+unknownTransfered: Unknown Transferred
+rejectedTransfers: Rejected Transfers
+currentDepositsA: Current Deposits A
+currentDepositsB: Current Deposits B
+currentDeposits: Current Deposits
+depositsStatisticsToday: Deposits Statistics Today
+transactions: Transactions
+darFinanceGeneralInfo: DAR Finance General Info
+totalCurrentDepositDar: Total Current Deposit in DAR
+numberOfRefundRequests: Number of Refund Requests
+currentInDarBankAccount: Current Amount in DAR Bank Account
+Difference between Sadad paid invoice and paid Sadad in bank: Difference Between SADAD Paid Invoice and Paid SADAD in Bank
+totalUnknownSadadInBank: Total Unknown SADAD in Bank
+differenceBetweenBankAccountAndCurrentDeposits: Difference Between Bank Account and Current Deposits
+rejectedRefund: Rejected Refund
+shortage: Shortage
+totalInvoices: Total Invoices
+paidAssetToDar: Paid Asset to DAR
+paidAssetToAgent: Paid Asset to Agent
+paidInvoices: Paid Invoices
+pendingInvoices: Pending Invoices
+overdueInvoices: Overdue Invoices
+overdueItems: Overdue Items
+collectedCommissionToDar: Collected Commission to DAR
+items: Items
+totalInvoicesToAgent: Total Invoices to Agent
+infath: Infath
+feesForZeroBid: Fees for Zero Bid
+feesPaymentStatus: Fees Payment Status
+user: User
+depositDateTime: Deposit Date and Time
+forgotPasswordHeading: Forgot Password Heading
+sendLink: Send Link
+password_reset_email_sent: Password Reset Email Sent
+confirmPassword: Confirm Password
+passwordLength: Password Length
+passwordComplexity: The password must include an uppercase letter, a lowercase letter, a number, and a special character.
+module: Module
+permission: Permission
+permissionDeniedMessage: You do not have permission to access this
+permissions: Permissions
+manage: Manage
+create: Create
+delete: Delete
+inactive: Inactive
+manager: Manager
+supervisor: Supervisor
+head: Head
+others: Others
+collectedCommissionFeesToDAR: Collected Commission Fees to DAR
+dar: DAR
+saveChanges: Save Changes
+customerPaid: Customer Paid
+tasks: Tasks
+deadline: Deadline
+info: Info
+passport: Passport
+nationalId: National ID
+companyRegistration: Company Registration
+articleOfCorporation: Article of Corporation
+powerOfAttorney: Power of Attorney
+other: Other
+uploadDocument: Upload Document
+upload: Upload
+docuemntType: Document Type
+documentName: Document Name
+download: Download
+documentDeletion: Document Deletion
+documentDeletionMessage: Document Deletion Message
+commercialNumber: Commercial Number
+verificationStatus: Verification Status
+agencyDetails: Agency Details
+adminDetails: Admin Details
+docuemnts: Documents
+agentPersonalDetails: Agent Personal Details
+adminName: Admin Name
+customerFinanceRequestsSADADMoneyTransfer: Customer Finance Requests for SADAD Money Transfer
+pendingTransferToAgent: Pending Transfer to Agent
+collectedCommissionToDAR: Collected Commission to DAR
+agentBankAccountDetails: Agent Bank Account Details
+bankName: Bank Name
+bankAccountName: Bank Account Name
+iban: IBAN
+routingNumber: Routing Number
+soldEventFinance: Sold Event Finance
+shareBankAccountDetails: Share Bank Account Details
+copyCredentials: Copy Credentials
+totalProperties: Total Properties
+propertyValue: Property Value
+totalVisitors: Total Visitors
+totalUnpaid: Total Unpaid
+totalPaid: Total Paid
+biddingReport: Bidding Report
+n/o: Auctioning Count
+soldNotSold: Sold / Not Sold
+highestBidderValue: Highest Bidder Value
+bidderNationalId: Bidder National ID
+registerDate: Register Date
+eventType: Event Type
+propertyDescription: Property Description
+totalRegistered: Total Registered
+totalViews: Total Views
+registeredDateTime: Registered Date and Time
+depositQm: Deposit
+dialogLotTitle: Lot Title
+registeredUsers: Registered Users
+userFullName: User Full Name
+userNationalId: User National ID
+interestedUsers: Interested Users
+bidders: Bidders
+interestedDate: Interested Date
+unpaidCommissions: Unpaid Commissions
+commissionFees: Commission Fees
+cancelledEvents: Cancelled Events
+cancelledValue: Cancelled Value
+totalAuctions: Total Events
+assetValue: Asset Value
+totalIncrementValue: Total Increment Value
+percentageFromStartingPrice: Percentage from Starting Price
+assetsWithBids: Assets with Bids
+assetsWithNoBids: Assets with No Bids
+draft: Draft
+underApproval: Under Approval
+cancelled: Cancelled
+canceled: Cancelled
+customerStatistics: Customer Statistics
+paidToInfath: Paid to Infath
+paidToAsset: Paid to Asset
+refInvoiceNumber: Reference Invoice Number
+refundDate: Refund Date
+refund: Refund
+customerFinances: Customer Finances
+close: Close
+accountBalanceSar: Account Balance (SAR)
+allAssets: All Assets
+bids: Bids
+private: Private
+auctionType: Event Type
+assetType: Asset Type
+duration: Duration
+createAuction: Create Event
+creationDateTime: Creation Date and Time
+auctionNumber: Event Number
+hybrid: Hybrid
+online: Online
+qm: QM
+deedNumber: Deed Number
+pricesSetQm: Prices Set
+assetsStatus: Assets Status
+highestBid: Highest Bid
+auctionStatistics: Event Statistics
+assetsWithNoSetPrices: Assets with No Set Prices
+assetsUnderTheDecision: Assets Under the Decision
+addAsset: Add Asset
+actionsHistory: Actions History
+editPrices: Edit Prices
+depositsReport: Deposits Report
+highestBidderReport: Highest Bidder Report
+biddersReport: Bidders Report
+noAvailableActions: No Available Actions
+publish: Publish
+save: Save
+titleDeed: Title Deed
+infathCommission: Infath Commission
+manger_system: Manager System
+secretary_committee: Secretary Committee
+head_committee: Head Committee
+admin: Admin
+editStaff: Edit Staff
+resendOTPIn: Resend OTP In
+resendOTP: Resend OTP
+auctions: Events
+endPrice: End Price
+nSlashO: Auctioning Count
+agentNameAr: Agent Name (Arabic)
+agentNameEn: Agent Name (English)
+agentEmailAddress: Agent Email Address
+whatsapp: WhatsApp
+lastActivity: Last Activity
+By: By
+priority: Priority
+call: Call
+chat: Chat
+totalTickets: Total Tickets
+solvedTickets: Solved Tickets
+pendingTickets: Pending Tickets
+reopenTickets: Reopen Tickets
+totalNoneRelatedToDar: Total None Related to DAR
+totalHighPriority: Total High Priority
+totalMediumPriority: Total Medium Priority
+totalLowPriority: Total Low Priority
+overdueTickets: Overdue Tickets
+topic: Topic
+addTicket: Add Ticket
+source: Source
+messengers: Messengers
+relatedToDarQm: Related to DAR?
+socialMedia: Social Media
+sms: SMS
+low: Low
+high: High
+meduim: Medium
+closed: Closed
+customerNameOriD: Customer Name or ID
+assignedTo: Assigned To
+attachement: Attachment
+typeYourMessageHere: Type Your Message Here
+ksa: KSA
+chooseCity: Choose City
+cities: Cities
+bank: Bank
+saveAsDraft: Save as Draft
+logo: Logo
+sendOtp: Send OTP
+notVerified: Not Verified
+not_verified: Not Verified
+titleDeedNumber: Title Deed Number
+titleDate: Title Date
+fromOfProperty: From Property
+propertAge: Property Age
+streetWidth: Street Width
+sqauareMeter: Square Meter
+rooms: Rooms
+livingRooms: Living Rooms
+numberOfBaths: Number of Baths
+blockNumber: Block Number
+documentsNumber: Documents Number
+plotNumber: Plot Number
+deliveryDurationForAssetsToBeCollectedAfterAuction: Delivery Duration for Assets to be Collected After Event
+durationForPreparingTheTitleDeedDocumentation: Duration for Preparing the Title Deed Documentation
+week: Week
+commissionForDar: Commission for DAR
+commissionForAgent: Commission for Agent
+buyerDefaultFee: Buyer Default Fee
+listingFees: Listing Fees
+payCommissionTo: Pay Commission To
+payAssetTo: Pay Asset To
+taxPercentageForAsset: Tax Percentage for Asset
+percentage: Percentage
+flat: Flat
+owner: Owner
+inspectionDocument: Inspection Document
+titleDeedDate: Title Deed Date
+north: North
+south: South
+east: East
+west: West
+residential: Residential
+commercial: Commercial
+agricultural: Agricultural
+commercialResidential: Commercial Residential
+useOfProperty: Use of Property
+features: Features
+video: Video
+auctionNameAr: Event Name (Arabic)
+auctionNameEn: Event Name (English)
+basicInformation: Basic Information
+property: Property
+vehicle: Vehicle
+electronics: Electronics
+plateNumber: Plate Number
+luxuryItem: Luxury Item
+withInfathQm: With Infath?
+REGACertificate: REGA Certificate
+durationBetweenAuctions: Duration Between Events
+logoAndCatalog: Logo and Catalog
+catalog: Catalog
+youtubeLink: YouTube Link
+arabicText: Arabic Text
+englishText: English Text
+termsAndConditions: Terms and Conditions
+saveAndAddAsset: Save and Add Asset
+pleaseSelect: Please Select
+noResultsFound: No Results Found
+pleaseChooseAgent: Please Choose Agent
+luxury_items: Luxury Items
+plate_number: Plate Number
+selectStartDateTime: Select Start Date and Time
+selectEndDateTime: Select End Date and Time
+selectDateTime: Select Date and Time
+durationBetweenAuctionsInMinutes: Duration Between Events in Minutes
+minute: Minute
+hour: Hour
+day: Day
+createAsset: Create Asset
+assetTypes: Asset Types
+manageHybridAuctions: Manage Hybrid Events
+numberOfSoldAssets: Number of Sold Assets
+numberOfUnsoldAssets: Number of Unsold Assets
+previewMode: Preview Mode
+timeControl: Time Control
+currentAssetInfo: Current Asset Info
+selectNextAsset: Select Next Asset
+participantsList: Participants List
+operate: Operate
+asset: Asset
+breakControl: Break Control
+inventory: Inventory
+hybridAuctionLocation: Hybrid Event Location
+villa: Villa
+apartment: Apartment
+land: Land
+building: Building
+raw_land: Raw Land
+farming_land: Farming Land
+housing_land: Housing Land
+commercial_land: Commercial Land
+house: House
+chalet: Chalet
+store: Store
+office: Office
+warehouse: Warehouse
+workshop: Workshop
+floor: Floor
+factory: Factory
+school: School
+medical_center: Medical Center
+assetNameAr: Asset Name (Arabic)
+assetNameEn: Asset Name (English)
+districtAr: District (Arabic)
+districtEn: District (English)
+propertyInformation: Property Information
+titleDeedInformation: Title Deed Information
+additionalFeatures: Additional Features
+images: Images
+documentsAndVideo: Documents and Video
+prices: Prices
+commissionAndFees: Commission and Fees
+deliveryAndDocumentationTimeline: Delivery and Documentation Timeline
+editAuction: Edit Event
+hybridAuctionLocationAr: Hybrid Event Location (Arabic)
+hybridAuctionLocationEn: Hybrid Event Location (English)
+propertyFront: Property Front
+vatOnCommission: VAT on Commission
+map: Map
+northeast: Northeast
+northsouth: North-South
+eastwest: East-West
+3direction: Three Directions
+4direction: Four Directions
+northwest: Northwest
+southeast: Southeast
+southwest: Southwest
+exportCSV: Export CSV
+exportExcel: Export Excel
+searchTheMap: Search the Map
+longitude: Longitude
+latitude: Latitude
+needApprovalQm: Need Approval?
+youWillProvidInvoicesQm: You Will Provide Invoices?
+youWillCollectCommissionQm: You Will Collect Commission?
+assetsIsWithDarQm: Assets are with DAR?
+pleaseFillTheRequiredFileds: Please Fill the Required Fields
+cancelledAssets: Cancelled Assets
+goBack: Go Back
+assetStatistics: Asset Statistics
+highestBidValue: Highest Bid Value
+depositsHistory: Deposits History
+powerOfAttorneys: Power of Attorneys
+approveAuction: Approve Event
+approveAuctionDescription: Approve Event Description
+cancelAuction: Cancel Event
+cancelAuctionDescription: Cancel Event Description
+extendAuction: Extend Event
+goToLiveUpcoming: Go to Live Upcoming
+goToLiveUpcomingDescription: Go to Live Upcoming Description
+setIban: Set IBAN
+editIban: Edit IBAN
+editHeadSecretary: Edit Head Secretary
+setHeadSecretary: Set Head Secretary
+suspendAuction: Suspend Event
+suspendAuctionDescription: Suspend Event Description
+editOperations: Edit Operations
+operationsAuctionLot: Operations Event Lot
+delivery: Delivery
+deliveryShipmentNotes: Delivery Shipment Notes
+completedQm: Completed?
+estimatedDate: Estimated Date
+to: To
+lot: Lot
+videoUrl: Video URL
+openMap: Open Map
+setPrices: Set Prices
+reAuction: Re-Auction
+MinimumAcceptablePriceforOffer: Minimum Acceptable Price for Offer
+minimunIncreamentProceOffer: Minimum Increment Price Offer
+minimunIncreament: Minimum Increment
+deliveryTimeline: Delivery Timeline
+deliveryOverdueFees: Delivery Overdue Fees
+paymentOverdueFees: Payment Overdue Fees
+customer: Customer
+uploads: Uploads
+location: Location
+pricingDescription: Pricing Description
+pleaseChooseEvent: Please Choose Event
+pleaseChooseType: Please Choose Type
+pleaseChooseCity: Please Choose City
+SomeoneFromInfath: Someone from Infath
+editAsset: Edit Asset
+areYouSureYouWantToCancelTheSell: Are You Sure You Want to Cancel the Sale?
+cancelledBy: Cancelled By
+cancelationFees: Cancellation Fees
+reason: Reason
+buyer: Buyer
+seller: Seller
+present: Present
+under_approval: Under Approval
+accreditationRequest: Accreditation Request
+accreditationReject: Reject Accreditation
+accredite: Accredit
+accrediteAuction: Accredit Event
+accreditationRequestDescription: Are you sure you want to accredit the event?
+accrediteAuctionDescription: Are you sure you want to accredit the event?
+accreditationRejectDescription: Are you sure you want to reject the accreditation?
+accreditationRequestSent: Accreditation Request Sent
+accreditationHasBeenRejected: Accreditation Has Been Rejected
+accreditationHasBeenAccredited: Accreditation Has Been Accredited
+dynamicExport: Export {title}
+totalValueOfAssets: Total Value of Assets
+sponsoredByInfath: Sponsored by Infath
+assetApproveSell: Approve Asset Sell
+assetApproveSellDescription: Are you sure you want to approve the asset sell?
+assetSellHasBeenApproved: Asset Sell Has Been Approved
+assetRejectSell: Reject Asset Sell
+assetRejectSellDescription: Are you sure you want to reject the asset sell?
+assetSellHasBeenRejected: Asset Sell Has Been Rejected
+resumeAuctioningAsset: Resume Auctioning Asset
+resumeAuctioningAssetDescription: Are you sure you want to resume auctioning the asset?
+auctioningAssetHasBeenResumed: Auctioning Asset Has Been Resumed
+cancelAssetSell: Cancel Asset Sell
+cancelAssetSellDescription: Are you sure you want to cancel the asset sell?
+assetHasBeenSuspensed: Asset Has Been Suspensed
+auctionHasBeenSuspended: Event Has Been Suspended
+publishAuction: Publish Event
+publishAuctionDescription: Are you sure you want to publish the event?
+unpublishAuction: Unpublish Event
+unpublishAuctionDescription: Are you sure you want to unpublish the event?
+auctionHasBeenPublished: Event Has Been Published
+auctionHasBeenUnpublished: Event Has Been Unpublished
+document: Document
+visibleForCustomerQm: Visible for Customer?
+deletingFile: Deleting File
+deletingFileDescription: Are you sure you want to delete the file?
+propertyTypeInAr: Property Type in Arabic
+propertyTypeInEn: Property Type in English
+titleDeedsInformation: Title Deeds Information
+add: Add
+pleaseChooseTax: Please Choose Tax
+assetUpdatedSuccessfully: Asset Updated Successfully
+assetCreatedSuccessfully: Asset Created Successfully
+updateAsset: Update Asset
+agentCommission: Agent Commission
+isReservePriceHidden: Is Reserve Price Hidden?
+auctioningAssetHasBeenExtended: Auctioning Asset Has Been Extended
+assetHasBeenReauctioned: Asset Has Been Reauctioned
+ibanUpdatedSuccessfully: IBAN Updated Successfully
+discLogo: Supported format - Jpeg, JPG, PNG
+discCatalog: Supported format - PDF
+auctionUpdatedSuccessfully: Event Updated Successfully
+auctionCreatedSuccessfully: Event Created Successfully
+searchForChat: Search for chat
+loading...: loading ...
+assetInformation: Asset Information
+gregorian: Gregorian
+block: "Block"
+unblock: "Unblock"
+personalInfo: "Personal Info"
+durationBetweenAssets: "Duration Between Assets"
+globalSuccess: "The process was done successfully."
+assetStatus: Asset Status
+discount: "Discount"
+tax: Tax
+subtotal: Subtotal
+total: Total
+paymentMethod: "Payment method"
+needApproval: "Need Approval"
+hideReservePrice: "Hide Reserve Price"
+otherTypeInAr: "Other Type in Arabic"
+otherTypeInEn: "Other Type in English"
+approveRefund: "Approve Refund"
+rejectRefund: "Reject Refund"
+in_progress: "In progress"
+bulkRefund: "Bulk Refund"
+customerRefundRequests: Customer Refund Requests
+InfathRefundRequests: Infath Refund Requests
+bulkConfirm: "You are about to refund for IDs {ids}, are you sure?"
+createRefund: "Create Refund"
+selectedCustomer: Selected Customer
+selectedUser: Selected User
+updated_at: Updated at
+downloadBulkFile: Download Bulk File
+bulkDownloadMassage: You are about to download file for {length} items
+ExecutionDate: Execution Date
+transfered: Transfered
+InfathRefund: Infath Refund
+pendingCommissionToDar: Pending Commission To Dar
+paid: Paid
+dueDate: Due Date
+sendInfathTransferReport: Send Infath Transfer Report
+solidAssets: Solid Assets
+unSolidAssets: Unsolid Assets
+pendingCommissionPaymentToAgent: Pending Commission Payment To Agent
+Sold: Sold
+Unsold: Unsold
+AddFinanceInfo: Add Finance Info
+bank_account_balance: Bank Account Balance
+unknown_sadad: Unknown sadad
+unknown_bank_transfer: Unknown bank transfer
+balance: Balance
+rejected_transfer: Rejected transfer
+auctioningEventHasBeenCancelled: Auctioning Event Has Been Cancelled
+lastPrice: Last Price
+cancelled/suspended: Cancelled / Suspended
+suspendAsset: Suspend Asset
+not_set: Not Set
+bank_transfer: Bank Transfer
+credit_card: Credit Card
+refunded_ordered: Refunded ordered
+hold: Hold
+paymentHistory: Payment History
+manager_cheque: Manager cheque
+cheque: Cheque
+delivered: Delivered
+sadad: Sadad
+editCustomerDeposit: Edit Customer Deposit
+files: Files
+auctions_sold: Sold Actions
+auctions_unsold: Unsold Actions
+tenses: Tenses
+autoBid: Auto bid
+unpaid: Unpaid
+notDone: "Not done"
+editOperation: "Edit operation"
+question: Question
+alert: Alert
+bidding: Bidding
+heavy_equipment: Heavy equipment
+car: Car
+hybridDashboard: "Hybrid Dashboard"
+pleaseChoose: Please Choose
+update: Update
+POA: POA
+legalCapacity: Legal Capacity
+foreignBidder: Foreign Bidder
+set: Set
+timer: Timer
+endAuction: End auction
+removeTimer: Remove timer
+nextBid: Next Bid
+addBid: Add Bid
+order: Order
+time: Time
+minutes: Minutes
+participantsHistory: Participants History
+interestedPeople: Interested People
+visitors: Visitors
+bulkSendNotification: Bulk Send Notification
+notification: Notification
+editBid: Edit bid
+youGonnaDelete: you gonna delete item with ID {id}, are you sure?
+startPrices: Start Prices
+acceptPricePar: you gonna accept this price, are you sure?
+rejectPricePar: you gonna reject this price, are you sure?
+approvalModal: Approval Modal
+under_the_decision: Under the decision
+licence: Licence
+PAID_COMMISSION_TO_DAR: Paid Commission to DAR
+TRANSFER_DEPOSIT_TO_ENFATH: Transfer Deposit to Infath
+SEND_INFATH_REPORT: Send Infath Report
+DELIVER_DOCUMENTS: Deliver Documents
+DELIVERY_TO_DAR: Delivery to DAR
+blockUser: Block user
+blockReason: Block reason
+assetName: Asset Name
