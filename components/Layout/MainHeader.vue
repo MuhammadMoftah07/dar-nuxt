@@ -14,20 +14,21 @@
     <div class="flex-none">
       <ul class="px-1 capitalize menu menu-horizontal">
         <li>
-          <a @click="navigateTo('/')" class="cursor-pointer">home</a>
+          <a @click="navigateTo('/components')" class="cursor-pointer">
+            components
+          </a>
         </li>
+
         <li>
-          <a @click="navigateTo('/components')" class="cursor-pointer"
-            >components</a
-          >
+          <button @click="$modal.value = 'loginModal'" class="btn btn-sm ghost">
+            {{ $t("login") }}
+          </button>
         </li>
+
         <li>
-          <a @click="navigateTo('/login')" class="cursor-pointer">Login</a>
-        </li>
-        <li>
-          <a @click="navigateTo('/registration')" class="cursor-pointer"
-            >Registration</a
-          >
+          <button class="btn btn-sm btn-primary">
+            {{ $t("signIn") }}
+          </button>
         </li>
         <li>
           <details>

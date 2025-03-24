@@ -311,5 +311,5 @@ input[type="number"] {
 }
 
 .input-title {
-  @apply block px-1 mb-[2px] text-xs font-bold tracking-wide uppercase text-slate-600;
+  @apply block px-1 mb-[2px] text-xs font-bold tracking-wide capitalize text-slate-600;
 }

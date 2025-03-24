@@ -1,6 +1,6 @@
 <template>
   <div class="grid divide-y-2 divide-slate-400">
-    <section class="w-1/2 h-60 bg-slate-400">
+    <section class="relative w-1/2 h-40 bg-slate-400">
       <LayoutLoader />
     </section>
     <section class="gap-3 py-6">

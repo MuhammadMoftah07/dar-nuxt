@@ -7,9 +7,9 @@
       </div>
     </section>
     <LayoutMainFooter />
-    <TestComp />
+
     <!-- modals -->
-    <LoginModal />
+    <LoginModal v-if="$modal.value == 'loginModal'" />
   </main>
 </template>
 

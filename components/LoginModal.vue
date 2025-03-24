@@ -1,30 +1,28 @@
 <template>
-  <LayoutModal modal-classes="max-w-2xl">
-    <template #modal-title> Title </template>
+  <LayoutModal modal-classes="max-w-sm">
+    <template #modal-title> {{ $t("login") }} </template>
 
     <template #modal-body>
-      <section class="grid grid-cols-2 gap-2">
-        <ThemeInput title="العنوان" v-model="form.title" />
-        <ThemeInput title="الوصف" type="textarea" v-model="form.desc" />
-        <ThemeNumber title="عدد الطلاب" v-model="form.student_count" />
+      <section class="grid grid-cols-1 gap-2">
+        <ThemeInput title="phone" v-model="form.title" />
       </section>
     </template>
 
     <template #modal-footer>
-      <footer class="gap-2 modal-action">
+      <footer class="gap-2 px-2 modal-action">
         <button
-          class="btn h-9 btn-theme"
+          class="w-1/2 btn h-9 btn-primary"
           :disabled="loading"
           @click="activeItem ? edit() : submit()"
         >
           <span v-if="loading" class="loading loading-spinner"></span>
-          إتمام
+          {{ $t("login") }}
         </button>
         <button
           @click="$modal.value = false"
-          class="font-medium btn h-9 btn-ghost text-slate-700"
+          class="w-1/2 font-medium btn h-9 btn-secondary"
         >
-          اغلاق
+          {{ $t("create_account") }}
         </button>
       </footer>
     </template>

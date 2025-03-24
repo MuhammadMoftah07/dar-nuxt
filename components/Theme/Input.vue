@@ -1,7 +1,7 @@
 <template>
-  <div class="w-full p-1">
+  <div class="w-full py-1">
     <label class="cursor-pointer input-title" :for="id || generatedID">
-      {{ title }}
+      {{ $t(title) }}
     </label>
 
     <template v-if="type == 'select'">

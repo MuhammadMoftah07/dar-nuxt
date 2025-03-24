@@ -10,19 +10,21 @@
 
       <slot name="modal-footer">
         <footer class="gap-2 modal-action">
-          <button class="btn h-9 btn-theme" @click="$emit('submitted')">
-            إتمام
+          <button class="btn h-9 btn-primary" @click="$emit('submitted')">
+            {{ $t("submit") }}
           </button>
+
           <button
             @click="$modal.value = ''"
             class="font-medium btn h-9 btn-ghost text-slate-700"
           >
-            اغلاق
+            {{ $t("close") }}
           </button>
         </footer>
       </slot>
     </div>
 
+    <!-- the dark background (close modal) -->
     <aside method="dialog" class="modal-backdrop" @click="$closeModal()">
       <button>close</button>
     </aside>
