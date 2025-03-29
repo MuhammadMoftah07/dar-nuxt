@@ -123,6 +123,7 @@ date: "تاريخ"
 time: "وقت"
 file_upload: "ارفع ملف"
 terms_checkbox: "أوافق على الشروط والأحكام"
+resendOTP: "اعادة ارسال رمز التحقق"
 
 # General UI
 loading: "جاري التحميل..."

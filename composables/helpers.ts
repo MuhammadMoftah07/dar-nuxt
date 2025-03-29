@@ -17,16 +17,16 @@ export const useToast = () => ({
       return;
     }
 
-    if (err.response.status == 422) {
-      for (let key in err.response._data.errors) {
-        if (err.response._data.errors.hasOwnProperty(key)) {
-          err.response._data.errors[key].forEach((message) => {
-            useNuxtApp().$toast.error(message);
-          });
-        }
-      }
-      return;
-    }
+    // if (err.response.status == 422) {
+    //   for (let key in err.response._data.errors) {
+    //     if (err.response._data.errors.hasOwnProperty(key)) {
+    //       err.response._data.errors[key].forEach((message) => {
+    //         useNuxtApp().$toast.error(message);
+    //       });
+    //     }
+    //   }
+    //   return;
+    // }
 
     // if (typeof err.response?._data === "object") {
     //   for (let i in err.response._data) {
@@ -36,15 +36,19 @@ export const useToast = () => ({
     // }
 
     if (err.response?.status >= 400 && err.response?.status < 500) {
-      if (err.response?._data?.message?.length) {
-        useNuxtApp().$toast.error(err.response._data?.message);
+      if (err.response?._data?.message) {
+        const locale = useNuxtApp().$i18n?.locale?.value;
+        console.log("err res ", err.response);
+        console.log("locale", locale);
+        useNuxtApp().$toast.error(err.response._data?.message[locale]);
         return;
       }
     }
-    if (err.message) {
-      useNuxtApp().$toast.error(err.message);
-      return;
-    }
+    // if (err.message) {
+    //   const locale = useNuxtApp().$i18n.locale;
+    //   useNuxtApp().$toast.error(err.message[locale]);
+    //   return;
+    // }
 
     useNuxtApp().$toast.error("Some Error happed!");
   },

@@ -47,6 +47,16 @@
             </ul>
           </details>
         </li>
+
+        <button
+          class="flex font-bold btn btn-ghost btn-sm flex-nowrap text-slate-700"
+          @click="setLocale(alternateLocale.code)"
+        >
+          <IconsBaseLangIcon class="w-5 h-5 text-primary shrink-0" />
+          <span>
+            {{ alternateLocale.symbol }}
+          </span>
+        </button>
       </ul>
     </div>
   </nav>
@@ -55,6 +65,11 @@
 <script lang="ts" setup>
 const router = useRouter();
 const localePath = useLocalePath();
+const { locale, locales, setLocale } = useI18n();
+
+const alternateLocale = computed(() => {
+  return locales.value.filter((i) => i.code !== locale.value)[0];
+});
 
 const navigateTo = (path) => {
   router.push(localePath(path));

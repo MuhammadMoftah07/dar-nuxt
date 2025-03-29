@@ -59,7 +59,8 @@ export default defineNuxtConfig({
   css: ["~/assets/css/app.css", "~/assets/css/style.css"],
   runtimeConfig: {
     public: {
-      baseURL: process.env.BASE_URL || "https://api.example.com/",
+      baseURL: process.env.VUE_APP_API_URL || "https://api.example.com/",
+      baseURL_V2: process.env.VUE_APP_API_V2_URL || "https://api.example.com/",
       envMode: process.env.envMode || "production",
     },
   },

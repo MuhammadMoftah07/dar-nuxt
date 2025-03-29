@@ -1,6 +1,6 @@
 <template>
   <dialog class="modal modal-open">
-    <div class="overflow-y-auto modal-box" :class="modalClasses">
+    <div class="overflow-y-auto modal-box bg-slate-50" :class="modalClasses">
       <h3 class="text-lg font-bold text-slate-900">
         <slot name="modal-title"></slot>
       </h3>

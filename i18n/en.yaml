@@ -123,6 +123,7 @@ date: "Date"
 time: "Time"
 file_upload: "Upload File"
 terms_checkbox: "I accept the terms and conditions"
+resendOTP: "Resend OTP"
 
 # General UI
 loading: "Loading..."
