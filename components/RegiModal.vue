@@ -1,15 +1,23 @@
 <template>
-  <LayoutModal modal-classes="max-w-md">
-    <template #modal-title> {{ $t("login") }} </template>
+  <LayoutModal modal-classes="max-w-xl">
+    <template #modal-title> {{ $t("signup") }} </template>
 
     <template #modal-body>
       <form id="login-form" @submit.prevent="otpStage ? signInOTP : sendOTP()">
         <!-- phone login  -->
-        <section class="grid grid-cols-1 gap-2" v-if="!otpStage">
+        <section class="grid grid-cols-2 gap-y-2 gap-x-6" v-if="!otpStage">
+          <ThemeInput title="first_name" v-model="form.first_name" />
+          <ThemeInput title="father_name" v-model="form.father_name" />
+          <ThemeInput
+            title="grandfather_name"
+            v-model="form.grand_father_name"
+          />
+          <ThemeInput title="family_name" v-model="form.family_name" />
+          <ThemeInput title="email" v-model="form.email" />
           <ThemeInput
             title="phone_number"
             maxlength="10"
-            v-model="form.email_phone"
+            v-model="form.phone"
           />
         </section>
 

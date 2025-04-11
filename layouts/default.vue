@@ -10,6 +10,7 @@
 
     <!-- modals -->
     <LoginModal v-if="$modal.value == 'loginModal'" />
+    <RegiModal v-if="$modal.value == 'RegiModal'" />
   </main>
 </template>
 

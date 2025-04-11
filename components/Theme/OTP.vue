@@ -20,6 +20,7 @@
   <!-- Timer and Resend Button -->
   <div class="text-center">
     <button
+      type="button"
       @click="resendOTP"
       :disabled="timeLeft > 0"
       class="btn btn-link"
@@ -28,19 +29,6 @@
       ]"
     >
       {{ $t("resendOTP") }}<span v-if="timeLeft > 0">({{ timeLeft }})</span>
-    </button>
-    <button
-      v-if="false"
-      @click="resendOTP"
-      :disabled="timeLeft > 0"
-      class="px-4 py-2 font-medium text-white transition-colors rounded-lg"
-      :class="[
-        timeLeft > 0
-          ? 'bg-slate-400 cursor-not-allowed'
-          : 'bg-slate-600 hover:bg-slate-700',
-      ]"
-    >
-      Resend OTP
     </button>
   </div>
 </template>

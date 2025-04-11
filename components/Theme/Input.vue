@@ -18,12 +18,13 @@
 
     <template v-else>
       <input
-        class="input file:hover:cursor-pointer file:text-white file:rounded-md file:bg-theme2 file:hover:bg-green-700 file:border-none file:ms-0 file:me-2 file:py-1 file:text-xs file:-translate-y-[2px]"
+        class="theme-input file:hover:cursor-pointer file:text-white file:rounded-md file:bg-theme2 file:hover:bg-green-700 file:border-none file:ms-0 file:me-2 file:py-1 file:text-xs file:-translate-y-[2px]"
         :type="type"
         :placeholder="placeholder"
         :id="id || generatedID"
         v-model="value"
-        :multipl="multiple"
+        :multiple="multiple"
+        :maxlength
       />
     </template>
   </div>
@@ -63,6 +64,10 @@ defineProps({
   multiple: {
     type: Boolean,
     default: false,
+  },
+  maxlength: {
+    type: String,
+    default: null,
   },
 });
 

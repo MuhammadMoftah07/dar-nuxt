@@ -10,6 +10,8 @@
       </a>
     </div>
 
+    token: {{ token?.slice(0, 10) }}
+
     <!-- Navigation Links -->
     <div class="flex-none">
       <ul class="px-1 capitalize menu menu-horizontal">
@@ -26,13 +28,25 @@
         </li>
 
         <li>
-          <button class="btn btn-sm btn-primary">
-            {{ $t("signIn") }}
+          <button
+            @click="signOut()"
+            class="btn btn-sm ghost btn-error text-red-50"
+          >
+            {{ $t("logout") }}
+          </button>
+        </li>
+
+        <li>
+          <button
+            class="btn btn-sm btn-primary"
+            @click="$modal.value = 'RegiModal'"
+          >
+            {{ $t("register") }}
           </button>
         </li>
         <li>
           <details>
-            <summary>Parent</summary>
+            <summary>{{ user?.phone || "NotLogin" }}</summary>
             <ul class="p-2 rounded-t-none bg-base-100">
               <li>
                 <a @click="navigateTo('/link1')" class="cursor-pointer"
@@ -41,8 +55,8 @@
               </li>
               <li>
                 <a @click="navigateTo('/link2')" class="cursor-pointer"
-                  >Link 2</a
-                >
+                  >Link 2
+                </a>
               </li>
             </ul>
           </details>
@@ -63,6 +77,7 @@
 </template>
 
 <script lang="ts" setup>
+const { data: user, signOut, token } = useAuth();
 const router = useRouter();
 const localePath = useLocalePath();
 const { locale, locales, setLocale } = useI18n();

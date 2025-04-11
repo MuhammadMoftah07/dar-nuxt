@@ -11,18 +11,18 @@ export default defineNuxtConfig({
   ],
 
   auth: {
-    baseURL: process.env.BASE_URL,
+    baseURL: process.env.VUE_APP_API_URL,
     provider: {
       type: "local",
       endpoints: {
-        signIn: { path: "/admin/login", method: "post" },
+        signIn: { path: "/auth/otp", method: "post" },
         signOut: false,
-        signUp: { path: "/admin/store", method: "post" },
-        getSession: { path: "/admin", method: "get" },
+        // signUp: { path: "/admin/store", method: "post" },
+        getSession: { path: "/user", method: "get" },
         // refresh: { path: '/refresh', method: 'post' },
       },
       token: {
-        signInResponseTokenPointer: "/response/token",
+        signInResponseTokenPointer: "/token",
         maxAgeInSeconds: 34560000, // 400 days, the maximum allowed by the browser
       },
     },

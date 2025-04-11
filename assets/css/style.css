@@ -63,8 +63,8 @@ body {
   }
 
   /* inputs */
-  .input {
-    @apply w-full p-2 text-sm h-[37.6px] font-semibold bg-white border rounded-lg shadow-inner hover:bg-slate-50 border-slate-200 text-slate-500 focus:border-[#17D69A] focus:outline-none focus:ring-[#17D69A] focus:ring-1;
+  .theme-input {
+    @apply w-full p-2 text-sm font-semibold bg-white border rounded-lg shadow-inner hover:bg-slate-50 border-slate-300 text-slate-500 focus:border-slate-400 focus:outline-none focus:ring-slate-400 focus:ring-1;
   }
 
   .click-scale {
@@ -311,5 +311,5 @@ input[type="number"] {
 }
 
 .input-title {
-  @apply block px-1 mb-[2px] text-xs font-bold tracking-wide capitalize text-slate-600;
+  @apply block mb-[2px] text-xs font-bold tracking-wide capitalize text-slate-600;
 }
